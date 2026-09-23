@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Mouse Redragon",
+        "precio": 55000,
+        "imagen": "https://placehold.co/200"
+    },
+    {
+        "id": 2,
+        "nombre": "Auriculares JBL",
+        "precio": 85000,
+        "imagen": "https://placehold.co/200"
+    }
+]
